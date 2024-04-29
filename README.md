@@ -1,7 +1,7 @@
 # GitHub VAT Invoice Configuration Guide for EU Businesses
 
 ## Introduction
-This guide provides a detailed, step-by-step instruction on how to configure your GitHub account to include your business name and VAT number on invoices. This is crucial for businesses within the European Union, where VAT invoices are required to claim tax deductions on business-related expenses. Properly formatted VAT invoices allow businesses to deduct the VAT paid on purchases from their output tax, which can significantly reduce their income tax liability. 
+This guide provides a detailed, step-by-step instruction on how to configure your GitHub account to include your business name and VAT number on invoices. This is crucial for businesses within the European Union, where VAT invoices are required to properly record business-related expenses. Properly formatted invoices from GitHub allow businesses to accurately register these expenses. This, in turn, can reduce the reported profit and subsequently lower the income tax liability. 
 
 By following this guide, EU-based businesses, especially small businesses and sole proprietors, will be able to ensure their GitHub invoices are compliant with EU tax regulations, enabling them to use these invoices for tax reporting and deductions.
 
