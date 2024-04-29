@@ -38,4 +38,4 @@ Navigate to `View all payments` to see a list of all transactions. From here, yo
 Any changes you make to the business description will also reflect on invoices for past billing periods, which can be very beneficial for accounting and tax purposes.
 
 ## Conclusion
-By following these steps, you will ensure that your GitHub invoices correctly display the necessary business and tax information, making them valid for tax deductions under EU law. This guide aims to simplify the process and help you maintain compliance with EU tax regulations.
+By following these steps, you will ensure that your GitHub invoices correctly display the necessary business and tax information, making them valid for tax deductions under EU law. This guide is designed to simplify the process and assist in maintaining compliance with EU tax regulations. It is important to understand that this guide is provided for informational purposes only and does not constitute legal advice. As of April 29, 2024, the information is current, but it is recommended to consult with a professional accountant to verify if it can be recognized as a cost and to ensure compliance with the latest tax laws.
