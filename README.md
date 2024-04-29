@@ -17,22 +17,22 @@ In the EU, to deduct VAT costs for tax purposes, invoices must include the busin
 ### Step 1: Access Payment Information
 Navigate to `Settings -> Billing and plans -> Payment Information` on your GitHub account.
 
-![Step 1 Illustration](image-url-here)
+![Step 1 Illustration](illustrations/1image.png)
 
 ### Step 2: Add Business Information
 In the `Additional Information` section, click on `Add Information`.
 
-![Step 2 Illustration](image-url-here)
+![Step 2 Illustration](illustrations/2image.png)
 
 ### Step 3: Enter Your VAT Information
 In the critical step, enter your VAT information in two fields. It is crucial to input your full business name followed by your VAT number in the field labeled `Full business name or address of record`. For example, enter "Your Business Name LLC / VAT: Your-VAT-Number" because this text field is the only one that appears on the invoice and must contain both your business name and VAT number.
 
-![Step 3 Illustration](image-url-here)
+![Step 3 Illustration](illustrations/3image.png)
 
 ### Step 4: View and Print Invoices
 Navigate to `View all payments` to see a list of all transactions. From here, you can print your invoices with the correctly displayed business name and VAT number.
 
-![Step 4 Illustration](image-url-here)
+![Step 4 Illustration](illustrations/4image.png)
 
 ## Note
 Any changes you make to the business description will also reflect on invoices for past billing periods, which can be very beneficial for accounting and tax purposes.
